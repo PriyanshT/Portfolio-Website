@@ -1,0 +1,21 @@
+/* 
+  Colour Palette
+  blue - #36477f
+        #4b6ab5
+        #0a1a5e
+        #5f749f
+        #292b48
+  brown - #c09a8c
+  grey - #251d24
+          #767286
+          #939cb3
+*/
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
