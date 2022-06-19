@@ -5,7 +5,8 @@ var router = express.Router();
 router.get('/', function (req, res, next) {
   res.render('index', {
     title: 'Priyansh Thakar',
-    activeHome: 'active'
+    activeHome: 'active',
+    css: 'indexStyle.css'
   });
 });
 

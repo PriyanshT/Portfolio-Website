@@ -1,0 +1,32 @@
+/* 
+  Colour Palette
+  blue - #36477f
+        #4b6ab5
+        #0a1a5e
+        #5f749f
+        #292b48
+  brown - #c09a8c
+  grey - #251d24
+          #767286
+          #939cb3
+*/
+
+.name-logo {
+  font-family: 'Pacifico', cursive;
+  color: white !important;
+  font-size: 30px !important;
+}
+
+body {
+  padding: 0px;
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.header {
+  background-image: url("/images/home.jpg");
+
+  min-height: 780px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
